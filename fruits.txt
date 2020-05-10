@@ -1,3 +1,7 @@
 orange 
-melon
+Banana
 apple
+Watermelon
+grapes
+melon
+
